@@ -1,0 +1,22 @@
+.bg-color{
+    font-family: Tahoma, sans-serif;
+    font-size: 12px;
+    background-color: #4B0F1E;
+}
+.welcome{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 15px 0 5px 0;
+}
+.submit{
+    background-color: #4B0F1E !important;
+    min-height: 18px;
+}
+.lang hover{
+    background-color: #d5f6ff !important;
+}
+.copy-right{
+    font-size: 11px;
+    padding: 2px 10px 2px 8px;
+    text-align: center;
+}
